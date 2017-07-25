@@ -242,16 +242,4 @@ return endPosition;
 ```
 
 <br/>
-##四、总结
-在演示项目中，每个cell我都使用系统自带的cell，样式比较简单，如果你要展现更加漂亮的样式，可以自定义cell。<br/>
-同时，你也可以扩展该数据模型，运动到更加复杂的业务处理中。比如以下场景：
-![这里写图片描述](http://img.my.csdn.net/uploads/201507/05/1436079894_7992.gif)
-<br/>
-##五、下载地址
-github下载地址：[https://github.com/yixiangboy/TreeTableView](https://github.com/yixiangboy/TreeTableView)<br/>
-如果觉得对你还有些用，给一颗star吧。你的支持是我继续的动力。<br/>
-个人博客地址：[http://blog.csdn.net/yixiangboy](http://blog.csdn.net/yixiangboy)
-<br/>
-##五、博主的话
-以前看过很多别人的博客，学到不少东西。现在准备自己也开始谢谢博客，希望能够帮到一些人。如果工作不是特别忙的话，准备每周写一篇。<br/>
-我的联系方式：[新浪微博](http://weibo.com/p/1005055612984599/home?from=page_100505&mod=TAB#place)
+
